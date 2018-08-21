@@ -23,9 +23,6 @@ Your main critique of the paper should be written in terms of a list of strength
 
 Please think carefully about your reviews. In particular, it's a good idea to avoid ad-hoc policy innovations, which can occur with the best of intentions. Here is an example. Author submits a paper relying on a dataset that cannot be public. Reviewer takes the position that this means the results cannot be trusted, and rejects on these grounds. The problem with this review is that it's clearly about a matter of CVPR policy, rather than about the paper's content. We have clear policies about double submission and plagiarism. CVPR doesn't have a policy about non-public datasets, and it's unfair for reviewers to invent one of their own.
 
-#### When You're Done
-
-When you have finished with your review, you should destroy any paper manuscript and/or supporting material you received. See the Ethics guidelines below. 
 </details>
 
 ## Writing advice from those who know best !
@@ -41,6 +38,10 @@ When you have finished with your review, you should destroy any paper manuscript
 <details> <summary> <a href="https://www.cc.gatech.edu/~parikh/citizenofcvpr/static/slides/freeman_how_to_write_papers.pdf"><b>Bill Freeman's</b> 2018 slides on writing a good CVPR submission </summary>
 
 > I can’t stand “future work” sections. It’s hard to think of a weaker way to end a paper
+
+> Omit needless words
+
+> Figure captions should be self-contained and the caption should tell the reader what to notice about the figure
 
 (and previous [2014 version](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf))
 </details>
