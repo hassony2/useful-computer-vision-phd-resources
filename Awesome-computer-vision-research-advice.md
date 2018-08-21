@@ -1,10 +1,10 @@
 # General advice for your research
-<details><summary> <a href="https://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf"> <b>Bill Freeman's</b> How to do research</a></summary>
+<details><summary> <a href="https://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf">How to do research,<b>Bill Freeman, 2013</b></a></summary>
 Read it all !
 </details>
 
 
-<details> <summary> <a href="http://paulgraham.com/hamming.html"> You and your (great) research, <b>Richard Hamming</b></a> </summary>
+<details> <summary> <a href="http://paulgraham.com/hamming.html"> You and your (great) research, <b>Richard Hamming</b></a>, 1986 </summary>
 
 > Drop modesty and say to yourself, ``Yes, I would like to do first-class work.'' 
 
