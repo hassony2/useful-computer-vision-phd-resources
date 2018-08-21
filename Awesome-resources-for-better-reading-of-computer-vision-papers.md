@@ -1,4 +1,4 @@
-## Awesome  resources for better reading of computer vision and machine learning paper
+## Awesome  resources for better reading of computer vision papers
 
 #### Are you starting a PhD in deep-learning-based computer vision ?
 
