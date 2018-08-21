@@ -1,4 +1,4 @@
-# Useful tools for your Computer Vision PhD
+# Advice for better writing
 
 This page is an effort to gather the advice I can find on how to write a good paper, with as focus on top-tier computer vision conferences (CVPR, ECCV, ICCV) 
 
