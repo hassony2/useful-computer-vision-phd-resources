@@ -30,7 +30,9 @@ Please think carefully about your reviews. In particular, it's a good idea to av
 <details> <summary> <a href="https://www.cc.gatech.edu/~parikh/citizenofcvpr/static/slides/malik_write_good_paper.pdf"> <b> Jitendra Malik's </b> write a good paper slides 2018</b></a> </summary>
 
 > Possible introduction style: What did you do (Fig. 1), How did you do it? (Fig. 2)
+
 > The best way to write a paper is to first give a talk on it
+
 > Introduction section: The most important section of a paper. For me, once I have finished reading the introduction, I have formed an opinion of whether to accept or reject the paper
 </details>
 
@@ -42,6 +44,8 @@ Please think carefully about your reviews. In particular, it's a good idea to av
 > Omit needless words
 
 > Figure captions should be self-contained and the caption should tell the reader what to notice about the figure
+
+> There are perceived pressures to over-sell, hide drawbacks, and disparage others’ work.  Don’t succumb.
 
 (and previous [2014 version](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf))
 </details>
