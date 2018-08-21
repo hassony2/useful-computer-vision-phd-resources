@@ -14,6 +14,8 @@ Read it all !
 
 > Given two people with exactly the same ability, the one person who manages day in and day out to get in one more hour of thinking will be tremendously more productive over a lifetime.
 
+> When you have a real important problem you don't let anything else get the center of your attention - you keep your thoughts on the problem.
+
 </details>
 
 ## Additional resources
