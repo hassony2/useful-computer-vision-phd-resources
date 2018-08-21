@@ -4,7 +4,7 @@ Read it all !
 </details>
 
 
-<details> <summary> <a href="http://www.cs.virginia.edu/~robins/YouAndYourResearch.html"> You and your (great) research, J. F. Kaiser</a> </summary>
+<details> <summary> <a href="http://paulgraham.com/hamming.html"> You and your (great) research, <b>Richard Hamming</b></a> </summary>
 
 > Drop modesty and say to yourself, ``Yes, I would like to do first-class work.'' 
 
