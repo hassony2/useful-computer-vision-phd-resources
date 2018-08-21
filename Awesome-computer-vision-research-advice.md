@@ -8,6 +8,8 @@ Read it all !
 
 > Drop modesty and say to yourself, ``Yes, I would like to do first-class work.'' 
 
+> Ask yourself: ``What are the important problems in my field?'' 
+
 > The more you know, the more you learn; the more you learn, the more you can do; the more you can do, the more the opportunity 
 
 > Given two people with exactly the same ability, the one person who manages day in and day out to get in one more hour of thinking will be tremendously more productive over a lifetime.
