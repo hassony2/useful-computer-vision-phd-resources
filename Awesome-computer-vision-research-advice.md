@@ -18,10 +18,24 @@ Read it all !
 
 ## Additional resources
 
-<details> <summary><a href="https://www.cc.gatech.edu/~parikh/citizenofcvpr/static/slides/schmid_good_research_and_evaluation.pdf">  Cordelia Schmid's How to do good research </summary>
+<details> <summary><a href="https://www.cc.gatech.edu/~parikh/citizenofcvpr/static/slides/schmid_good_research_and_evaluation.pdf">  <b>Cordelia Schmid's</b> How to do good research </summary>
+  
+> Think about long-term goals / hard problems
+
+> Avoid making models complex without any evaluation of necessity
+
+> Avoid models designed for one particular dataset, hiding the fact that it doesn’t work elsewhere
+
+> Open-source your code
+
+> Provide a precise description of how the model's parameters were set
+
 </details>
   
-  <details> <summary> <a href=""></summary>
-  </details>
-[Bill Freeman's graduate student's qualities according to supervisors](http://people.csail.mit.edu/billf/talks/10minFreema
-n2013.pdf)
+<details> <summary><a href="https://people.csail.mit.edu/billf/talks/10minFreeman2013.pdf">Bill Freeman's 2013 graduate student's qualities </a></summary>
+  
+> Curiosity, Creativity, Flexibility, Enthousiasm
+> Persistence, Courage
+
+</details>
+
