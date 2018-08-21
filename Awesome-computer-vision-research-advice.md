@@ -1,5 +1,5 @@
 # General advice for your research
-<details><summary> <a href="https://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf">How to do research,<b>Bill Freeman, 2013</b></a></summary>
+<details><summary> <a href="https://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf">How to do research,<b>Bill Freeman</b></a>, 2013</summary>
 Read it all !
 </details>
 
@@ -18,7 +18,7 @@ Read it all !
 
 ## Additional resources
 
-<details> <summary><a href="https://www.cc.gatech.edu/~parikh/citizenofcvpr/static/slides/schmid_good_research_and_evaluation.pdf">  <b>Cordelia Schmid's</b> How to do good research </summary>
+<details> <summary><a href="https://www.cc.gatech.edu/~parikh/citizenofcvpr/static/slides/schmid_good_research_and_evaluation.pdf">How to do good research, <b>Cordelia Schmid</b></a>, 2018 </summary>
   
 > Think about long-term goals / hard problems
 
