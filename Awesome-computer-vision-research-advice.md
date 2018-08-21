@@ -18,5 +18,10 @@ Read it all !
 
 ## Additional resources
 
+<details> <summary><a href="https://www.cc.gatech.edu/~parikh/citizenofcvpr/static/slides/schmid_good_research_and_evaluation.pdf">  Cordelia Schmid's How to do good research </summary>
+</details>
+  
+  <details> <summary> <a href=""></summary>
+  </details>
 [Bill Freeman's graduate student's qualities according to supervisors](http://people.csail.mit.edu/billf/talks/10minFreema
 n2013.pdf)
