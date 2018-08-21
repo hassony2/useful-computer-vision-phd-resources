@@ -10,7 +10,7 @@ Read it all !
 
 > The more you know, the more you learn; the more you learn, the more you can do; the more you can do, the more the opportunity 
 
-> You have to neglect things if you intend to get what you want done.  Given two people with exactly the same ability, the one person who manages day in and day out to get in one more hour of thinking will be tremendously more productive over a lifetime.
+> Given two people with exactly the same ability, the one person who manages day in and day out to get in one more hour of thinking will be tremendously more productive over a lifetime.
 
 </details>
 
