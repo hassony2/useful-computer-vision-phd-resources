@@ -13,7 +13,7 @@
 
 <details open><summary>Motivation</summary>
 
-Having started a PhD one year ago I progressively stumbled upon **talks/tools/advice that I wish I had come accross earlier**.
+Having started a PhD one year ago I progressively stumbled upon **talks/tools/advice** that **I wish I had come accross earlier**.
 I will keep adding links and material as I find new resources that I find useful.
 
 My goal is therefore to gather all the resources that you should look if you are starting or currently pursuing a PhD in computer vision.
