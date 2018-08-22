@@ -4,7 +4,7 @@
 
 ## Topics
 
-A list of topics I would want to cover
+A list of topics I wish to address
 
 - [x] General advice on [how to conduct your research](https://github.com/hassony2/useful-computer-vision-phd-resources/blob/master/Awesome-computer-vision-research-advice.md)
 - [x] [Better/faster paper reading](https://github.com/hassony2/useful-computer-vision-phd-resources), tools and resources
