@@ -23,6 +23,9 @@ In drop-downs below some resources I will **provide short summaries** of the adv
 
 Towards this purpose I will extensively use drop-down extensions.
 
-- <details><summary><-- click here</summary> > Like this ! </details>
+- <details><summary><-- click here</summary>
+  
+  > Like this !
+</details>
 
 </details>
