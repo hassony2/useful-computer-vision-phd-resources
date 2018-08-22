@@ -20,6 +20,6 @@ I will keep adding links and material as I find new resources that I find useful
 My goal is to write efficiently so that you can easily find the original source/link to the resource, as well as provide short summaries when relevant.
 Towards this purpose I will extensively use drop-down extensions.
 
-    <details><summary><-- click here</summary> Like this ! </details>
+- <details><summary><-- click here</summary> Like this ! </details>
 
 </details>
