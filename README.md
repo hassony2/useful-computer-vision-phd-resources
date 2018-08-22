@@ -16,7 +16,7 @@
 Having started a PhD one year ago I progressively stumbled upon **talks/tools/advice that I wish I had come accross earlier**.
 I will keep adding links and material as I find new resources that I find useful.
 
-My goal is therefore to gather all the resources
+My goal is therefore to gather all the resources that you should look if you are starting or currently pursuing a PhD in computer vision.
 
 I want to write efficiently so that you can **easily find the original source/link to the resource**.
 In drop-downs below some resources I will **provide short summaries** of the advice when relevant, often as a **list of quotes from the original resource**.
