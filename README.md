@@ -14,10 +14,10 @@ A list of topics I wish to address
 
 
 <details open><summary>Motivation</summary>
-Having started a PhD one year ago I progressively stumbled upon talks/tools/advice that I wish I had come accross earlier.
+Having started a PhD one year ago I progressively stumbled upon **talks/tools/advice that I wish I had come accross earlier**.
 I will keep adding links and material as I find new resources that I find useful.
 
-My goal is to write efficiently so that you can easily find the original source/link to the resource, as well as provide short summaries when relevant.
+My goal is to write efficiently so that you can **easily find the original source/link to the resource**, as well as **provide short summaries** when relevant.
 Towards this purpose I will extensively use drop-down extensions.
 
 - <details><summary><-- click here</summary> Like this ! </details>
