@@ -8,20 +8,16 @@ This page is an effort to gather the advice I can find on how to write a good pa
 
 Read author *and* reviewer guidelines to know how not to get rejectet *and* how to get accepted
 
-<details> <summary> CVPR 2018 reviewer's guidelines </summary>
+<details> <summary> <a href="http://cvpr2018.thecvf.com/submission/main_conference/reviewer_guidelines">CVPR 2018 reviewer's guidelines </a> </summary>
 
 #### What to Look For
 
-Look for what's good or stimulating in the paper. **Minor flaws** can be corrected and **shouldn't be a reason to reject a paper**. CVPR as a conference is looking for new ideas. We recommend that you **embrace novel, brave concepts**, even if they have not been tested on many datasets. For example, the fact that a proposed method does **not exceed the state of the art accuracy on an existing benchmark dataset is not grounds for rejection by itself**. Acceptance and rejection decisions should not be determined solely by the method's raw performance. Rather, it is important to **weigh both the novelty and potential impact of the work alongside the reported performance**. Each paper that is accepted should be **technically sound** and **make a contribution to the field**.
-
-#### Be Specific
-
-Please be specific and detailed in your reviews. In the discussion of related work and references, simply saying "this is well known" or "this has been common practice in the industry for years" is not sufficient: cite specific publications, including books, or public disclosures of techniques.
-Your main critique of the paper should be written in terms of a **list of strengths and weaknesses of the paper**. Use bullet points here, and explain your arguments. Your discussion, sometimes more than your score, will help the authors, fellow reviewers, and Area Chairs understand the basis of your opinions, so please be thorough. Your reviews will be returned to the authors, so **you should include specific feedback on ways the authors can improve their papers**. For more suggestions on writing your reviews, read the section below on Writing Technical Reviews.
-
-#### Be Careful
-
-Please think carefully about your reviews. In particular, it's a good idea to avoid ad-hoc policy innovations, which can occur with the best of intentions. Here is an example. Author submits a paper relying on a dataset that cannot be public. Reviewer takes the position that this means the results cannot be trusted, and rejects on these grounds. The problem with this review is that it's clearly about a matter of CVPR policy, rather than about the paper's content. We have clear policies about double submission and plagiarism. **CVPR doesn't have a policy about non-public datasets**, and it's unfair for reviewers to invent one of their own.
+> **Minor flaws** can be corrected and **shouldn't be a reason to reject a paper**
+> **Embrace novel, brave concepts**
+> The fact that a proposed method does **not exceed the state of the art accuracy on an existing benchmark dataset is not grounds for rejection by itself**.
+> Acceptance and rejection decisions should not be determined solely by the method's raw performance
+> It is important to **weigh both the novelty and potential impact of the work alongside the reported performance**
+> Each paper that is accepted should be **technically sound** and **make a contribution to the field**.
 
 </details>
 
