@@ -12,6 +12,7 @@
 
 
 <details open><summary>Motivation</summary>
+
 Having started a PhD one year ago I progressively stumbled upon **talks/tools/advice that I wish I had come accross earlier**.
 I will keep adding links and material as I find new resources that I find useful.
 
