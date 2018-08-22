@@ -16,9 +16,13 @@
 Having started a PhD one year ago I progressively stumbled upon **talks/tools/advice that I wish I had come accross earlier**.
 I will keep adding links and material as I find new resources that I find useful.
 
-My goal is to write efficiently so that you can **easily find the original source/link to the resource**, as well as **provide short summaries** when relevant.
+My goal is therefore to gather all the resources
+
+I want to write efficiently so that you can **easily find the original source/link to the resource**.
+In drop-downs below some resources I will **provide short summaries** of the advice when relevant, often in the format of quotes from the original resource.
+
 Towards this purpose I will extensively use drop-down extensions.
 
-- <details><summary><-- click here</summary> Like this ! </details>
+- <details><summary><-- click here</summary> > Like this ! </details>
 
 </details>
