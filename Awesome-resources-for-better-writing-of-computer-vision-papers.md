@@ -13,10 +13,15 @@ Read author *and* reviewer guidelines to know how not to get rejectet *and* how 
 #### What to Look For
 
 > **Minor flaws** can be corrected and **shouldn't be a reason to reject a paper**
+
 > **Embrace novel, brave concepts**
+
 > The fact that a proposed method does **not exceed the state of the art accuracy on an existing benchmark dataset is not grounds for rejection by itself**.
+
 > Acceptance and rejection decisions should not be determined solely by the method's raw performance
+
 > It is important to **weigh both the novelty and potential impact of the work alongside the reported performance**
+
 > Each paper that is accepted should be **technically sound** and **make a contribution to the field**.
 
 </details>
