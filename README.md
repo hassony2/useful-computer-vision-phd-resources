@@ -19,7 +19,7 @@ I will keep adding links and material as I find new resources that I find useful
 My goal is therefore to gather all the resources
 
 I want to write efficiently so that you can **easily find the original source/link to the resource**.
-In drop-downs below some resources I will **provide short summaries** of the advice when relevant, often as a list of quotes from the original resource.
+In drop-downs below some resources I will **provide short summaries** of the advice when relevant, often as a **list of quotes from the original resource**.
 
 Towards this purpose I will extensively use drop-down extensions.
 
