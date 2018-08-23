@@ -11,7 +11,7 @@
 
 ## Reading resources : Keeping up with our quickly evolving field
 
-<details open> <summary> <a href="http://www.arxiv-sanity.com"><b>arxiv sanity</b></a>: A nice wrapper over <a href="https://arxiv.org/">arxiv</a> to search for recent machine learning and vision papers </summary> 
+<details> <summary> <a href="http://www.arxiv-sanity.com"><b>arxiv sanity</b></a>: A nice wrapper over <a href="https://arxiv.org/">arxiv</a> to search for recent machine learning and vision papers </summary> 
 
 #### Pros: 
 
