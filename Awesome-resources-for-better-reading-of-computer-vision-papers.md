@@ -45,7 +45,7 @@
 <br/>
 
 <details>
-<summary><a href="https://github.com/aleju/papers"><b>Aleju's papers</b></a>: Alexander Jung's paper summaries of a large number of popular deep learning papers, understand many popular deep learning papers in a fraction of the full paper's reading time </summary>
+<summary><a href="https://github.com/aleju/papers"><b>Aleju's papers</b></a>: Alexander Jung's paper summaries of a large number of popular deep learning papers. His summaries can help you understand many popular deep learning papers in a fraction of the full paper's reading time </summary>
 
 #### Pros:
 
