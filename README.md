@@ -11,6 +11,8 @@
 - [ ] Better meetings with your supervisor
 - [ ] Beautiful visualizations
 
+- [ ] Additional [tricks for neural networks](Awesome-computer-vision-network-tricks.md)
+
 <details open><summary>Motivation</summary>
 
 Having started a PhD one year ago I progressively stumbled upon **talks/tools/advice** that **I wish I had come accross earlier**.
