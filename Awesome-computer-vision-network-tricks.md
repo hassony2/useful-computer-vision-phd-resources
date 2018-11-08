@@ -23,4 +23,4 @@ def rec_freeze(model):
 
 ### Working with Adam
 
-- Although I train with Adam and learning rate is adaptative I still observe (positive) jumps in accuracy right after the learning rate decay. It is not clear however wheter it improves the final performance
+- Although I train with Adam and learning rate is adaptative I still observe (positive) jumps in accuracy right after the learning rate decay. It is not clear however whether it improves the final performance
