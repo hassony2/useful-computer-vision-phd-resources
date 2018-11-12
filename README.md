@@ -9,7 +9,7 @@
 - [x] How to write a good CVPR/ECCV/ICCV paper? Advice to [write a good scientific paper](https://github.com/hassony2/useful-computer-vision-phd-resources/blob/master/Awesome-resources-for-better-writing-of-computer-vision-papers.md)
 - [ ] Tools for [fast and reproducible experimentation](https://github.com/hassony2/useful-computer-vision-phd-resources/blob/master/Awesome-resources-for-fast-reproducible-python-experiments.md) (in python/PyTorch)
 - [ ] Better meetings with your supervisor
-- [ ] Beautiful visualizations
+- [ ] [Beautiful visualizations](Awesome-resources-for-beautiful-visualizations.md)
 
 - [ ] Additional [tricks for neural networks](Awesome-computer-vision-network-tricks.md)
 
