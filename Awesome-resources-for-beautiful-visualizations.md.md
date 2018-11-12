@@ -12,6 +12,9 @@ This page is an effort to gather the advice I can find on how to create ans shar
 - in jupyter notebooks, a good option in [pythreejs](https://github.com/jupyter-widgets/pythreejs), note that it is not available in pure python outside jupyter.
 - to share obtained visualization
   - save the jupyter notebook **make sure to save using Save with widgets**
+  - host the .ipynb file to www.some/address
+  - share using  [nbviewer](https://nbviewer.jupyter.org/) by giving it the www.some/address url
+
 
 <details> <summary> Saving with widgets </summary>
 
@@ -21,5 +24,3 @@ Ctrl+Shift+F and then
 
 </details>
 
-  - host the .ipynb file to www.some/address
-  - share using  [nbviewer](https://nbviewer.jupyter.org/) by giving it the www.some/address url
