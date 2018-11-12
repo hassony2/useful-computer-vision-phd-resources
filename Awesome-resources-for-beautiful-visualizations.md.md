@@ -9,7 +9,7 @@ This page is an effort to gather the advice I can find on how to create ans shar
 ## Beautiful 3d visualizations
 
 - Avoid matplotlib when working with 3D meshes, I found it has troubles reasoning about visibility for multiple meshes
-- in jupyter notebooks, a good option in [pythreejs](https://github.com/jupyter-widgets/pythreejs), note that it is not available in pure python outside jupyter.
+- in [jupyter notebooks](http://jupyter.org/), a good option in [pythreejs](https://github.com/jupyter-widgets/pythreejs), note that it is not available in pure python outside jupyter.
 - to share obtained visualization
   - save the jupyter notebook **make sure to save using Save with widgets**
   - host the .ipynb file to www.some/address
