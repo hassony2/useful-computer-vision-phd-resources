@@ -18,7 +18,9 @@ def rec_freeze(model):
     rec_freeze(child)
 ```
 
+- Maybe the problems from BatchNorm come from using it in a regression setting ? 
 
+> We found training with batch-normalization [28] to be unstable and applied the weight-normalization technique instead [46].  [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://arxiv.org/pdf/1901.05103.pdf)
 
 
 ### Working with Adam
