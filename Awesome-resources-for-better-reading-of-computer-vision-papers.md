@@ -26,6 +26,25 @@
 
 <br/>
 
+<details> <summary> <a href="http://openaccess.thecvf.com/ICCV2019_search.py"><b>thecvf publication search engine</b></a>:For each CVPR/ECCV/ICCV conference, the searchable full list of published papers </summary> 
+
+#### Pros: 
+
+- reliable source of peer-reviewed computer vision papers
+- likely the state-of-the-art papers you would need to compare against are among this list
+- [ICCV'19 papers](http://openaccess.thecvf.com/ICCV2019_search.py)
+- [CVPR'19 papers](http://openaccess.thecvf.com/CVPR2019_search.py)
+- [ECCV'18 papers](http://openaccess.thecvf.com/ECCV2018_search.py)
+- [CVPR'18 papers](http://openaccess.thecvf.com/CVPR2018_search.py)
+- etc...
+
+#### Cons:
+- search results can be a bit imprecise, so it often requires some additional skimming through papers that are returned by the search
+
+</details>
+
+<br/>
+
 
 <details><summary><a href="https://github.com/jnv/lists"><b>awesome paper lists on github </b> </a>: Lists of "awesome" papers and resources specific to a subject</summary>
 
