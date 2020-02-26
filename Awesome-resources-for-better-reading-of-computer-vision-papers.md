@@ -11,20 +11,7 @@
 
 ## Reading resources : Keeping up with our quickly evolving field
 
-<details> <summary> <a href="http://www.arxiv-sanity.com"><b>arxiv sanity</b></a>: A nice wrapper over <a href="https://arxiv.org/">arxiv</a> to search for recent machine learning and vision papers </summary> 
 
-#### Pros: 
-
-- easy query of papers with the research tool using keywords, author names, ...
-- allows you to save papers in a virtual library for future reading
-- good [top recent](http://www.arxiv-sanity.com/top?timefilter=month&vfilter=all) functionality based on what people put into their library (which I found a more reliable metric then [hype](http://www.arxiv-sanity.com/toptwtr?timefilter=month) which is based on tweets
-
-#### Cons:
-- only covers the last three years, so only useful to find recent papers
-
-</details>
-
-<br/>
 
 <details> <summary> <a href="http://openaccess.thecvf.com/ICCV2019_search.py"><b>thecvf publication search engine</b></a>:For each CVPR/ECCV/ICCV conference, the searchable full list of published papers </summary> 
 
@@ -46,6 +33,20 @@
 <br/>
 
 
+<details> <summary> <a href="http://www.arxiv-sanity.com"><b>arxiv sanity</b></a>: A nice wrapper over <a href="https://arxiv.org/">arxiv</a> to search for recent machine learning and vision papers </summary> 
+
+#### Pros: 
+
+- easy query of papers with the research tool using keywords, author names, ...
+- allows you to save papers in a virtual library for future reading
+- good [top recent](http://www.arxiv-sanity.com/top?timefilter=month&vfilter=all) functionality based on what people put into their library (which I found a more reliable metric then [hype](http://www.arxiv-sanity.com/toptwtr?timefilter=month) which is based on tweets
+
+#### Cons:
+- only covers the last three years, so only useful to find recent papers
+
+</details>
+
+<br/>
 <details><summary><a href="https://github.com/jnv/lists"><b>awesome paper lists on github </b> </a>: Lists of "awesome" papers and resources specific to a subject</summary>
 
 #### Pros:
