@@ -194,6 +194,7 @@ Add comments in text
 </details>
 
 <details> <summary> Appendix sections with Letter numbering </summary>
+	
 ```latex
 \usepackage{titletoc}
 \renewcommand{\thesection}{\Alph{section}}
@@ -202,4 +203,5 @@ Add comments in text
 \begin{document}
 \section{First appendix section}	
 ```
+
 </details>
