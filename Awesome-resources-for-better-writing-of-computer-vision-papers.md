@@ -101,14 +101,14 @@ Typically
 ```
 
 *abstract.tex*
-```
+```latex
 \begin{abstract}
 We did something awesome and wrote about it.
 \end{abstract}
 ```
 
 *introduction.tex*
-```
+```latex
 \section{Introduction}
 % Why the task you address is important, (if it is a new problem) problem statement, and applications
 
@@ -131,7 +131,7 @@ Our contributions can be summarized as follows:
 
 *relatedwork.tex*
 
-```
+```latex
 \section{Related Work}
 \label{sec:related}
 
@@ -173,9 +173,13 @@ Add comments in text
 </details>
   
 <details> <summary> Bibliography (bibtex) </summary>
-- use [natbib](http://merkel.texture.rocks/Latex/natbib.php) 
+- use [natbib](http://merkel.texture.rocks/Latex/natbib.php) so that references are sorted in ascending number ([13, 3, 34] --> [3, 13, 34])
 
-`\usepackage[numbers,sort,compress]{natbib}` so that references are sorted in ascending number ([13, 3, 34] --> [3, 13, 34])
+```latex
+\usepackage[numbers,sort,compress]{natbib}
+```
+
+
 
 - Make references **homogeneous**
     - Good sources of bibtex files are usually the **publication websites** 
@@ -193,7 +197,9 @@ Add comments in text
 ```latex
 \usepackage{titletoc}
 \renewcommand{\thesection}{\Alph{section}}
+	
 % ...
 \begin{document}
+\section{First appendix section}	
 ```
 </details>
