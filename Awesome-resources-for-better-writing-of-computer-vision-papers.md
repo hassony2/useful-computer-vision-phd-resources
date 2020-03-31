@@ -183,7 +183,7 @@ Add comments in text
 
 - Make references **homogeneous**
     - Good sources of bibtex files are usually the **publication websites** 
-         - for CVPR/ICCV/ECCV I use the openaccess search websites. For instance for CVPR'19: [http://openaccess.thecvf.com/CVPR2019.py](http://openaccess.thecvf.com/CVPR2018.py) where I can search for the paper (by author/paper title) and copy the bibtex (same applies for [CVPR'18](http://openaccess.thecvf.com/CVPR2018.py), [CVPR'17](http://openaccess.thecvf.com/CVPR2017.py), ..., [ICCV'19](http://openaccess.thecvf.com/ICCV2019.py), [ECCV'18](http://openaccess.thecvf.com/ECCV'18.py), ...
+         - for CVPR/ICCV/ECCV I use the [openaccess search websites](http://openaccess.thecvf.com/menu.py). For instance for CVPR'19: [http://openaccess.thecvf.com/CVPR2019.py](http://openaccess.thecvf.com/CVPR2018.py) where I can search for the paper (by author/paper title) and copy the bibtex (same applies for [CVPR'18](http://openaccess.thecvf.com/CVPR2018.py), [CVPR'17](http://openaccess.thecvf.com/CVPR2017.py), ..., [ICCV'19](http://openaccess.thecvf.com/ICCV2019.py), [ECCV'18](http://openaccess.thecvf.com/ECCV'18.py), ...
          
          - for NeurIPS each paper has [a page](https://papers.nips.cc/paper/7181-attention-is-all-you-need) from which the bibtex can be copied
     - To minimize efforts to make homogeneous, remove all unecessary fields (month, page numbers, abstract, url, ...) from the bibtex
