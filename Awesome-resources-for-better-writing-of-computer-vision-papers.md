@@ -55,7 +55,7 @@ Read author *and* reviewer guidelines to know how not to get rejectet *and* how 
 
 #### LaTeX
 
-<details> <summary> Structure </summary>
+<details> <summary> Structuring your latex project, and per-section structure recommendations (introduction, related work, ...)</summary>
 Typically 
 - a *main* file named `00submission_id.tex`
 - references in the main file to each section is a **separate file**
