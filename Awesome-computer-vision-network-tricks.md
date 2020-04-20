@@ -2,8 +2,8 @@
 
 ### Working with batchnorm
 
-- At train time batchnorm uses batch statistics, therefore results will be differnt if you change the batch size
-- When finetuning with a different batch-size this can instroduce additional noise and degrade both the train and validation statistics (because it doesn't fit in memory otherwise for instance) a solution is to set my network in evaluation mode  (`model.eval()` in Pytorch)
+- At train time batchnorm uses batch statistics, therefore results will be different if you change the batch size
+- When finetuning with a different batch-size  (because the original batch size doesn't fit in memory otherwise for instance) this can introduce additional noise and degrade both the train and validation statistics. A solution is to set my network in evaluation mode  (`model.eval()` in Pytorch).
 - If training statistics are different from test statistics, this can cause outliers in the test set (predictions are completely wrong). This happened to me for instance with synthetic data when backgrounds were sampled from different sources. The solution might be also to fix the batchnorms (when weights are pretrained on ImageNet or other task) so that these statistics are always used (for jnstance by keeping it in eval() mode).
 - Fully **Freezing** batchnorm (meaning same image always gives same output in network that is frozen) requires to put momentum to 0, otherwise running statistics are still updated if you ever put the network in train mode.
 
