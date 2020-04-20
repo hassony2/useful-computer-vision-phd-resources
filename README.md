@@ -15,7 +15,7 @@
 
 <details open><summary>Motivation</summary>
 
-Having started a PhD one year ago I progressively stumbled upon **talks/tools/advice** that **I wish I had come accross earlier**.
+Having started a PhD two years ago I progressively stumbled upon **talks/tools/advice** that **I wish I had come accross earlier**.
 I will keep adding links and material as I find them, feel free to suggest some as [pull requests](https://github.com/hassony2/useful-computer-vision-phd-resources/pulls) or [issues](https://github.com/hassony2/useful-computer-vision-phd-resources/issues) !
 
 I want to write efficiently so that you can have an **overview of the tools/resources in less then a minute** and so that you can **easily find the original source/link to the resource**.
