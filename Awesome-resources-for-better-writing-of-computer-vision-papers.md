@@ -173,6 +173,7 @@ Add comments in text
 </details>
   
 <details> <summary> Bibliography (bibtex) </summary>
+	
 - use [natbib](http://merkel.texture.rocks/Latex/natbib.php) so that references are sorted in ascending number ([13, 3, 34] --> [3, 13, 34])
 
 ```latex
