@@ -206,3 +206,15 @@ Add comments in text
 ```
 
 </details>
+
+
+#### ArXiv
+
+<details> <summary> Cleaning latex for ArXiv </summary>
+
+ArXiv compiles latex and makes the source files downloadable. You should therefore **clean** them before you submit !
+
+- delete any unused source files and figures
+- use [arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner) to create ready-to-zip-and-submit latex files
+
+</details>
