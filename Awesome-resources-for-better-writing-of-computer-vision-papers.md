@@ -151,7 +151,7 @@ Most approaches in the literature tackle the problem of estimating either hand o
 
 </details>
 
-<details> <summary> One color per author </summary>
+<details> <summary> One color per author for in-document comments </summary>
 
 Assign colors to authors in main latex file: 
 
