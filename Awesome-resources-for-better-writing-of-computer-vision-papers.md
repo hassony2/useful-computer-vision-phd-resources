@@ -223,3 +223,19 @@ ArXiv compiles latex and makes the source files downloadable. You should therefo
 # Advice for better rebuttals
 
 [How we write rebuttals, by Devi Parikh](https://medium.com/@deviparikh/how-we-write-rebuttals-dc84742fece1)
+
+<details> <summary> Practical tips </summary>
+
+Major tips:
+
+- Acknowledge reviewer effort : Thank the reviewers for their effort
+- Remind reviewers of the positive aspects: "Provide a summary of the reviews, highlighting positive things that reviewers said about your work."
+- Meaningful order of answers : "Start with the biggest concerns that you have good answers for and work your way to less clear-cut responses and minor points."
+- Tone should be receptive and enthousiastic overall
+- Point to missed points "If something a reviewer asked for was already in the paper, say so. Give them line/Table/Figure numbers, and then restate it in the rebuttal."
+
+Minor cute bonuses:
+- Color code reviewers
+- Mention that requested experiments can not be provided if venue doesn't allow it
+
+</details>
