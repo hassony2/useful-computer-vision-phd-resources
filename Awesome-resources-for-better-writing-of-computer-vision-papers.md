@@ -53,6 +53,7 @@ Read author *and* reviewer guidelines to know how not to get rejectet *and* how 
 
 ## Practical tips
 
+
 #### LaTeX
 
 <details> <summary> Structuring your latex project, and per-section structure recommendations (introduction, related work, ...)</summary>
@@ -218,3 +219,7 @@ ArXiv compiles latex and makes the source files downloadable. You should therefo
 - use [arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner) to create ready-to-zip-and-submit latex files
 
 </details>
+
+# Advice for better rebuttals
+
+[How we write rebuttals, by Devi Parikh](https://medium.com/@deviparikh/how-we-write-rebuttals-dc84742fece1)
