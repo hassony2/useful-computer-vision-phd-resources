@@ -12,7 +12,8 @@
 - [ ] Better meetings with your supervisor
 - [ ] [Beautiful visualizations](Awesome-resources-for-beautiful-visualizations.md)
 
-- [ ] Additional [tricks for neural networks](Awesome-computer-vision-network-tricks.md)
+- [x] Additional [tricks for neural networks](Awesome-computer-vision-network-tricks.md)
+- [x] Some [coding tips](Coding-tips.md)
 
 <details open><summary>Motivation</summary>
 
