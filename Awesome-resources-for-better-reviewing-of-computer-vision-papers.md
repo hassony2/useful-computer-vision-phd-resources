@@ -24,6 +24,8 @@ Fatma Güney:
 - Constructive input: Explain what is missing, provide suggestions for inprovement, specific & detailed
 - Empathy: Respect the work, proper, ideally encouraging language
   
+Conrad Schindler:
+- Novelty: remember that new ideas are **rare**, a better question is "would this be of interest to the people attending the conference/reading the journal"
   
 </details>
 
