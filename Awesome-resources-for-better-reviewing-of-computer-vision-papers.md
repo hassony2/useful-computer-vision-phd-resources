@@ -25,7 +25,7 @@ Fatma Güney:
 - Empathy: Respect the work, proper, ideally encouraging language
   
 Conrad Schindler:
-- Novelty: remember that new ideas are **rare**, a better question is "would this be of interest to the people attending the conference/reading the journal"
+- Novelty: remember that new ideas are **rare**, better questions are "would this be of interest to the people attending the conference/reading the journal", "Does the work contribute to advancing the domain"
   
 </details>
 
