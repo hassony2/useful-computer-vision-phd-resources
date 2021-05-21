@@ -10,3 +10,20 @@
 
 - [CVPR 2020 workshop on reviewing video](https://www.youtube.com/watch?v=RIIQ7ohRyZw) if you have a lot of time (5hours in total !)  
 
+<details> <summary> Take-home messages </summary> 
+
+Jordi Pont-Tuset:
+  
+- check papers right when assigned to prevent discovering problems which request area-chair intervention at the last minute 
+- read paper & mark comments
+- group comments by topic
+- **didactically** write down comments about each group, assuming minimal background knowledge
+
+Fatma Güney:
+- Critical thinking: question, doubt, clarify your questions
+- Constructive input: Explain what is missing, provide suggestions for inprovement, specific & detailed
+- Empathy: Respect the work, proper, ideally encouraging language
+  
+  
+</details>
+
