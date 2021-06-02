@@ -9,10 +9,12 @@
 - Find a template (`mithesis` for instance)
 - Ask your supervisor for examples of well-written thesis
 - Take some time to setup your text editor !
-- 
+
 <details> <summary> More details on my setup </summary> 
-- I used mostly [SublimeText3](https://www.sublimetext.com/3) with the [LaTeXTools](https://latextools.readthedocs.io/en/latest/) plugin and the [Sumatra PDF](https://sumatra-pdf.fr.softonic.com/) viewer.
-- I made sure to enable spell checking, and to add specific missing words so that the spelling highlighting is meaningful
+
+I used mostly [SublimeText3](https://www.sublimetext.com/3) with the [LaTeXTools](https://latextools.readthedocs.io/en/latest/) plugin and the [Sumatra PDF](https://sumatra-pdf.fr.softonic.com/) viewer.
+
+I made sure to enable spell checking, and to add specific missing words so that the spelling highlighting is meaningful
 </details>
 
 #### Preparing latex 
