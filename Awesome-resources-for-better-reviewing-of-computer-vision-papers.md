@@ -38,8 +38,8 @@ Conrad Schindler:
   - For the authors, I try to set my mindset to **"How do I help them improve their paper?"** If I am leaning towards rejection I try to think "What changes could they make that would lead me to accept their paper ?" if I am leaning towards acceptance "How could they make it an even stronger submission ?"
   - For the area chair and other reviewers, I try to summarize as synthetically and didactically as I can my analysis and reasons for acceptance/rejection.
 
-- I try to **save the time** of the all the **readers** of my review by:
-  - **Reduce the readers' search load**. I try to **provide** as many **links and references** as I can so that people can easily navigate to specific locations in the paper or other resources.
+- **Save the readers' time**. I try to reduce the load on the reader by:
+  - **Reducing the readers' search load**. I try to **provide** as many **links and references** as I can so that people can easily navigate to specific locations in the paper or other resources.
      - If I am referring to a specific sentence in the paper I will copy-paste it if it is short and can be understood in isolation, otherwise I will provide the lines I am referring to (for instance `l216` or `l216-218`).
      - Similarly, I will point to tables and figures by their name, providing additional details to guide the reader to the specific location of interest (e.g. "in the top row of Table 5, where the paper investigates the effect of adding their novel block to standard architectures, (...)")
      - If I point to a reference I provide the first authors' last name, the conference, the name of the paper and when possible a link to the paper so that readers can directly access it having to search for it.
