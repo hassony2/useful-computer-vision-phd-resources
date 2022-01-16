@@ -2,6 +2,7 @@
 
 ### Official advice 
 
+- [CVPR 2022 reviewer guidelines](https://github.com/hassony2/useful-computer-vision-phd-resources/blob/master/) and [tutorial](https://cvpr2022.thecvf.com/sites/default/files/2021-11/How%20to%20be%20a%20good%20reviewer-tutorials%20for%20cvpr2022%20reviewers.pptx.pdf)
 - [ICCV 2021 reviewer instructions](http://iccv2021.thecvf.com/node/39): (or equivalent for the conference you are reviewing for) this will give you the minimum guidelines to follow
 - [CVPR 2020 reviewer tutorial power point](http://cvpr2020.thecvf.com/sites/default/files/2019-09/CVPRReviewerTutorial.pptx) Short slide deck with good/average/bad reviewing examples
 
