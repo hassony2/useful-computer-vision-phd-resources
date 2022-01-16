@@ -35,7 +35,9 @@ Conrad Schindler:
 
 - **Read the reviewing material.** Each conference usually provides reviewing guidance. I look them up and go through any available resources (text and tutorials) before reading any of the assigned papers. This insures I am aware of **conference-specific instructions** (is dataset release recommended or mandatory ? Should authors provide code for their submission ?) and is usually also a good refresher on reviewing best practices.
 - **Focus on the readers**. I keep in mind that my review will be read by the authors, the area chair as well as the other reviewers.
-  - For the authors, I try to set my mindset to **"How do I help them improve their paper?"** If I am leaning towards rejection I try to think "What changes could they make that would lead me to accept their paper ?" if I am leaning towards acceptance "How could they make it an even stronger submission ?"
+  - For the authors, I try to set my mindset to **"How do I help them improve their paper?"**
+    - If I am leaning towards rejection I try to think "What changes could they make that would lead me to accept their paper ?"
+    - If I am leaning towards acceptance "How could they make it an even stronger submission ?"
   - For the area chair and other reviewers, I try to summarize as synthetically and didactically as I can my analysis and reasons for acceptance/rejection.
 
 - **Save the readers' time**. I try to reduce the load on the reader by:
