@@ -54,7 +54,7 @@ Conrad Schindler:
     More details on why I found that the ablation studies supported the claims of the paper.
   
     ```
-    I believe this facilitates later discussions, as we can discuss the different points by easily referring to them.
+    I find this facilitates later discussions, as we can discuss the different points by easily referring to them.
 
 - **Use the summary as an opportunity to help the readers understand what factored most into my decision**. In the justification of my review summary, I try to make it very explicit how the strengths and weaknesses have affected my final reading. For instance, I will group the weaknesses between the ones that motivate my rejection and the ones that have a more marginal impact on my rating.
 
